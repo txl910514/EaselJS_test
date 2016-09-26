@@ -1,0 +1,23 @@
+{
+  "name": "easeljs_test",
+  "version": "1.0.0",
+  "description": "EaselJS_test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/txl910514/EaselJS_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/txl910514/EaselJS_test/issues"
+  },
+  "homepage": "https://github.com/txl910514/EaselJS_test#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0"
+  }
+}
